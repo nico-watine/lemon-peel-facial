@@ -1,9 +1,12 @@
 @import "bourbon";
 
+@import "_settings.scss";
+
 @import "_nav.scss";
 @import "_index.scss";
 @import "_home-widgets.scss";
-@import "_contact.scss";
+
+@import "pages/_contact.scss";
 
 .container_12 {
 background-color: #ffffff;
@@ -429,3 +432,4 @@ a#admin-login {
 a#admin-login:hover {
   text-decoration: underline;
 }
+
