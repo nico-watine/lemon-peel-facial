@@ -1,3 +1,6 @@
+*.sublime-project
+*.sublime-workspace
+
 scss/.sass-cache/*
 scss/.sass-cache/
 scss/.sass-cache
