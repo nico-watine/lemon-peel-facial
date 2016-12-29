@@ -1,6 +1,10 @@
 @import "bourbon";
 
+@import "functions/_rem-calc.scss";
+
 @import "_settings.scss";
+
+
 
 @import "components/_typography.scss";
 @import "components/_shadows.scss";
