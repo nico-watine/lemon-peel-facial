@@ -1,7 +1,5 @@
-http://cdn.lemonpeelfacial.com/project/lemonpeelfacial
-
+# ---------------------------------
+# |            CDN URL            |
+# ---------------------------------
 
 http://cdn.studionclient.rocks/project/lemonpeelfacial
-
-
-http://lemonpeelfacial.studionclient.rocks
