@@ -79,17 +79,15 @@ a#colophon:hover { text-decoration: underline; }
 
 @media only screen and (max-width: 767px) { .colophon-container, .facebook-link-container { text-align: center; } }
 
+#contact-2 h3 { font-weight: 600; font-size: 1.5625rem; color: #222; line-height: 1.4; margin: 0 0 0.5rem; }
+
+#contact-2 p { font-size: 1rem; margin-bottom: 1rem; line-height: 1.6; }
+
 #contact-2 .rowName { padding-bottom: 0.75rem; }
 
 #contact-2 .rowName h2 { font-weight: 600; font-size: 1.75rem; margin: 0 0 0.5rem; line-height: 1.4; }
 
-#contact-2 .rowName p { font-size: 1rem; margin-bottom: 1rem; line-height: 1.6; }
-
 #contact-2 .cardAppointments { background: #FCFCFC; border: 0.125rem solid #97975A; box-shadow: 0 0.0625rem 0.25rem 0 rgba(0, 0, 0, 0.1); border-radius: 4px; padding: 1rem; display: inline-block; text-align: left; }
-
-#contact-2 .cardAppointments h3 { font-weight: 600; font-size: 1.5625rem; color: #222; line-height: 1.4; margin: 0 0 0.5rem; }
-
-#contact-2 .cardAppointments p { font-size: 1rem; margin-bottom: 1rem; line-height: 1.6; }
 
 .container_12 { background-color: #ffffff; border: 1px solid #d4d4d4; border-radius: 4px; box-shadow: 0 1px 4px rgba(0, 0, 0, 0.065); margin-bottom: 15px; }
 

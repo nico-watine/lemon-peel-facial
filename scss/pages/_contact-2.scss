@@ -2,6 +2,21 @@
 
 
 #contact-2 {
+
+	h3 {
+		font-weight: 600;
+		font-size: rem-calc(25);
+		color: #222;
+		line-height: 1.4;
+		margin: 0 0 rem-calc(8);
+	}
+
+	p {
+		font-size: rem-calc(16);
+		margin-bottom: rem-calc(16);
+		line-height: 1.6;
+	}
+
 	.rowName {
 		padding-bottom: rem-calc(12);
 
@@ -10,12 +25,6 @@
 			font-size: rem-calc(28);
 			margin: 0 0 rem-calc(8);
 			line-height: 1.4;
-		}
-
-		p {
-			font-size: rem-calc(16);
-			margin-bottom: rem-calc(16);
-			line-height: 1.6;
 		}
 	}
 
@@ -27,19 +36,5 @@
 		padding: rem-calc(16);
 		display: inline-block;
 		text-align: left;
-
-		h3 {
-			font-weight: 600;
-			font-size: rem-calc(25);
-			color: #222;
-			line-height: 1.4;
-			margin: 0 0 rem-calc(8);
-		}
-
-		p {
-			font-size: rem-calc(16);
-			margin-bottom: rem-calc(16);
-			line-height: 1.6;
-		}
 	}
 }
