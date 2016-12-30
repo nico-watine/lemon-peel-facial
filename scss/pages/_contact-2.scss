@@ -43,6 +43,16 @@
 		padding: rem-calc(16);
 		display: inline-block;
 		text-align: left;
-		margin-bottom: rem-calc(16);
+		margin-bottom: rem-calc(20);
+	}
+
+	.img-wrapper {
+		padding: 0 rem-calc(6);
+
+		img {
+			margin-bottom: rem-calc(20);
+			border: rem-calc(2) solid #97975A;
+			box-shadow: 0 rem-calc(1) rem-calc(4) 0 rgba(0,0,0,0.10);
+		}
 	}
 }
