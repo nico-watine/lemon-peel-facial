@@ -41,9 +41,14 @@
 		box-shadow: 0 rem-calc(1) rem-calc(4) 0 rgba(0,0,0,0.10);
 		border-radius: 4px;
 		padding: rem-calc(16);
-		display: inline-block;
-		text-align: left;
+		// display: inline-block;
+		// text-align: left;
 		margin-bottom: rem-calc(20);
+
+		display: block;
+		max-width: rem-calc(400);
+		margin: 0 auto;
+		text-align: center;
 	}
 
 	.img-wrapper {
