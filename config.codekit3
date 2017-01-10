@@ -109,16 +109,6 @@
 		"oAP": "\/fonts\/castellar.woff",
 		"oF": 0
 		},
-	"\/fonts\/font.css": {
-		"aP": 0,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 2,
-		"oAP": "\/fonts\/font-min.css",
-		"oF": 0,
-		"oS": 0
-		},
 	"\/index.html": {
 		"ft": 8192,
 		"oA": 0,

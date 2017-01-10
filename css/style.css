@@ -2,6 +2,8 @@
 
 .centered { text-align: center; }
 
+@font-face { font-family: 'Castellar'; src: url("/fonts/castellar.eot"); /* IE9 Compat Modes */ src: url("/fonts/castellar.eot?#iefix") format("embedded-opentype"), url("/fonts/castellar.woff") format("woff"), url("/fonts/castellar.ttf") format("truetype"), url("/fonts/castellar.svg#c6594049cb9d2054b3cc171b65e4bcb0") format("svg"); /* Legacy iOS */ font-style: normal; font-weight: 400; }
+
 .shadow-1 { box-shadow: 0 0.0625rem 0.25rem 0 rgba(0, 0, 0, 0.37); }
 
 .shadow-2 { box-shadow: 0 0.125rem 0.125rem 0 rgba(0, 0, 0, 0.2), 0 0.375rem 0.625rem 0 rgba(0, 0, 0, 0.3); }
