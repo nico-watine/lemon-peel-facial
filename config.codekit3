@@ -21,6 +21,14 @@
 		"oAP": "\/_ignores\/cdn-urls.txt",
 		"oF": 0
 		},
+	"\/_ignores\/codekit-icon.png": {
+		"ft": 32768,
+		"iS": 13050,
+		"oA": 0,
+		"oAP": "\/_ignores\/codekit-icon.png",
+		"oF": 0,
+		"opt": 1
+		},
 	"\/_ignores\/lemon-peel-facial.sublime-project": {
 		"ft": 8192,
 		"oA": 2,
@@ -44,14 +52,6 @@
 		"oA": 0,
 		"oAP": "\/about-microneedling.html",
 		"oF": 0
-		},
-	"\/apple-touch-icon-180x180-precomposed.png": {
-		"ft": 32768,
-		"iS": 13050,
-		"oA": 0,
-		"oAP": "\/apple-touch-icon-180x180-precomposed.png",
-		"oF": 0,
-		"opt": 0
 		},
 	"\/class-testing.html": {
 		"ft": 8192,
@@ -321,7 +321,7 @@
 	"creationDate": 504663205,
 	"displayValue": "lemon-peel-facial",
 	"displayValueWasSetByUser": 1,
-	"iconImageName": "\/apple-touch-icon-180x180-precomposed.png"
+	"iconImageName": "\/_ignores\/codekit-icon.png"
 	},
 "projectSettings": {
 	"abortBuildOnError": 1,
