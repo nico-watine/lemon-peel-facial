@@ -81,6 +81,44 @@
 		"oF": 0,
 		"oS": 0
 		},
+	"\/fonts\/castellar.eot": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/fonts\/castellar.eot",
+		"oF": 0
+		},
+	"\/fonts\/castellar.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/fonts\/castellar.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/fonts\/castellar.ttf": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/fonts\/castellar.ttf",
+		"oF": 0
+		},
+	"\/fonts\/castellar.woff": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/fonts\/castellar.woff",
+		"oF": 0
+		},
+	"\/fonts\/font.css": {
+		"aP": 0,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 2,
+		"oAP": "\/fonts\/font-min.css",
+		"oF": 0,
+		"oS": 0
+		},
 	"\/index.html": {
 		"ft": 8192,
 		"oA": 0,
