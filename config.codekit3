@@ -308,6 +308,24 @@
 		"oA": 0,
 		"oAP": "\/templates\/footer\/footer-contact.html",
 		"oF": 0
+		},
+	"\/ultimatum\/settings.txt": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/ultimatum\/settings.txt",
+		"oF": 0
+		},
+	"\/ultimatum\/templates\/default-layout\/partials\/footer-contact.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/ultimatum\/templates\/default-layout\/partials\/footer-contact.html",
+		"oF": 0
+		},
+	"\/ultimatum\/templates\/default-layout\/partials\/footer.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/ultimatum\/templates\/default-layout\/partials\/footer.html",
+		"oF": 0
 		}
 	},
 "hooks": [
