@@ -1,0 +1,11 @@
+# ------------------------------------------
+# |            General Settings            |
+# ------------------------------------------
+
+# DEFAULT LOGO
+Image Logo URL
+/wp-content/uploads/2014/10/header2x.jpg
+
+# FAVICON
+Favorite Icon URL
+/favicon.png
