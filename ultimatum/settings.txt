@@ -9,3 +9,21 @@ Image Logo URL
 # FAVICON
 Favorite Icon URL
 /favicon.png
+
+
+
+# ----------------------------------------------------------
+# |            Advanced Settings -> Mobile Icons           |
+# ----------------------------------------------------------
+
+iPhone (57px*57px)
+/wp-content/uploads/2014/12/touch-icon.png
+
+iPhone (Retina) (114px*114px)
+/wp-content/uploads/2014/12/touch-icon.png
+
+iPad (72px*72px)
+/wp-content/uploads/2014/12/touch-icon.png
+
+iPad (Retina) (144px*144px)
+/wp-content/uploads/2014/12/touch-icon.png
