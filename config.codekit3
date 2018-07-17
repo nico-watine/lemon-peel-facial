@@ -7,7 +7,7 @@
 		"uuidString": "3C5867F0-1CE7-4434-AB9C-34B254C94D37"
 		}
 	],
-"creatorBuild": "26330",
+"creatorBuild": "26680",
 "files": {
 	"\/.gitignore": {
 		"cB": 0,
@@ -371,7 +371,8 @@
 	"creationDate": 504663205,
 	"displayValue": "lemon-peel-facial",
 	"displayValueWasSetByUser": 1,
-	"iconImageName": "\/_ignores\/codekit-icon.png"
+	"iconImageName": "\/_ignores\/codekit-icon.png",
+	"iconImageWasSetByUser": 0
 	},
 "projectSettings": {
 	"abortBuildOnError": 1,
@@ -2174,6 +2175,7 @@
 		"autoOutputPathReplace1": "",
 		"autoOutputPathReplace2": "",
 		"autoOutputPathStyle": 0,
+		"outputFormat": 0,
 		"quality": 100
 		},
 	"languageDefaultsJS": {
