@@ -1,0 +1,9 @@
+$maxWidth-479: 'only screen and (max-width : 479px)';
+
+@media #{$maxWidth-479} {
+	.page-aboutDermaplaning {
+		.entry-title.post-header {
+			font-size: 27px;
+		}
+	}
+}
