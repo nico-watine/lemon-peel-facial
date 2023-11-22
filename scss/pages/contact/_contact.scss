@@ -42,59 +42,59 @@ a#colophon {
 
 	h3 {
 		font-weight: 600;
-		font-size: rem-calc(25);
+		font-size: 25px;
 		color: #222;
 		line-height: 1.4;
-		margin: 0 0 rem-calc(8);
+		margin: 0 0 8px;
 	}
 
 	p {
-		font-size: rem-calc(16);
-		margin-bottom: rem-calc(16);
+		font-size: 16px;
+		margin-bottom: 16px;
 		line-height: 1.6;
 	}
 
 	h4 {
 		font-weight: 600;
-		font-size: rem-calc(20);
+		font-size: 20px;
 		line-height: 1.4;
-		margin: 0 0 rem-calc(8);
+		margin: 0 0 8px;
 	}
 
 	.rowName {
-		padding-bottom: rem-calc(12);
+		padding-bottom: 12px;
 
 		h2 {
 			font-weight: 600;
-			font-size: rem-calc(28);
-			margin: 0 0 rem-calc(8);
+			font-size: 28px;
+			margin: 0 0 8px;
 			line-height: 1.4;
 		}
 	}
 
 	.cardAppointments {
 		background: #FCFCFC;
-		border: rem-calc(2) solid #97975A;
-		box-shadow: 0 rem-calc(1) rem-calc(4) 0 rgba(0,0,0,0.10);
+		border: 2px solid #97975A;
+		box-shadow: 0 1px 4px 0 rgba(0,0,0,0.10);
 		border-radius: 4px;
-		padding: rem-calc(16);
+		padding: 16px;
 		// display: inline-block;
 		// text-align: left;
-		margin-bottom: rem-calc(20);
+		margin-bottom: 20px;
 
 		display: block;
-		max-width: rem-calc(400);
+		max-width: 400px;
 		margin: 0 auto;
 		text-align: center;
 	}
 
 	.img-wrapper {
-		padding: 0 rem-calc(6);
+		padding: 0 6px;
 
 		img {
-			margin-bottom: rem-calc(20);
-			border: rem-calc(2) solid #97975A;
-			box-shadow: 0 rem-calc(1) rem-calc(4) 0 rgba(0,0,0,0.10);
+			margin-bottom: 20px;
+			border: 2px solid #97975A;
+			box-shadow: 0 1px 4px 0 rgba(0,0,0,0.10);
 		}
 	}
 }

@@ -53,48 +53,48 @@ a#colophon {
 
 #contact-2 h3 {
   font-weight: 600;
-  font-size: rem-calc(25);
+  font-size: 25px;
   color: #222;
   line-height: 1.4;
-  margin: 0 0 rem-calc(8); }
+  margin: 0 0 8px; }
 
 #contact-2 p {
-  font-size: rem-calc(16);
-  margin-bottom: rem-calc(16);
+  font-size: 16px;
+  margin-bottom: 16px;
   line-height: 1.6; }
 
 #contact-2 h4 {
   font-weight: 600;
-  font-size: rem-calc(20);
+  font-size: 20px;
   line-height: 1.4;
-  margin: 0 0 rem-calc(8); }
+  margin: 0 0 8px; }
 
 #contact-2 .rowName {
-  padding-bottom: rem-calc(12); }
+  padding-bottom: 12px; }
   #contact-2 .rowName h2 {
     font-weight: 600;
-    font-size: rem-calc(28);
-    margin: 0 0 rem-calc(8);
+    font-size: 28px;
+    margin: 0 0 8px;
     line-height: 1.4; }
 
 #contact-2 .cardAppointments {
   background: #FCFCFC;
-  border: rem-calc(2) solid #97975A;
-  box-shadow: 0 rem-calc(1) rem-calc(4) 0 rgba(0, 0, 0, 0.1);
+  border: 2px solid #97975A;
+  box-shadow: 0 1px 4px 0 rgba(0, 0, 0, 0.1);
   border-radius: 4px;
-  padding: rem-calc(16);
-  margin-bottom: rem-calc(20);
+  padding: 16px;
+  margin-bottom: 20px;
   display: block;
-  max-width: rem-calc(400);
+  max-width: 400px;
   margin: 0 auto;
   text-align: center; }
 
 #contact-2 .img-wrapper {
-  padding: 0 rem-calc(6); }
+  padding: 0 6px; }
   #contact-2 .img-wrapper img {
-    margin-bottom: rem-calc(20);
-    border: rem-calc(2) solid #97975A;
-    box-shadow: 0 rem-calc(1) rem-calc(4) 0 rgba(0, 0, 0, 0.1); }
+    margin-bottom: 20px;
+    border: 2px solid #97975A;
+    box-shadow: 0 1px 4px 0 rgba(0, 0, 0, 0.1); }
 
 @media only screen and (max-width : 479px) {
   .page-aboutdermaplaning .entry-title.post-header {
