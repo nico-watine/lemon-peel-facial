@@ -1,20 +1,13 @@
-@import "bourbon";
-
+@import "_var.scss";
 @import "functions/_rem-calc.scss";
 
-@import "_settings.scss";
 
-
+@import "pages/_pages.scss";
 
 @import "components/_typography.scss";
 @import "components/_shadows.scss";
 @import "_nav.scss";
-@import "_index.scss";
-@import "_home-widgets.scss";
 
-@import "pages/_contact.scss";
-@import "pages/_contact-2.scss";
-@import "pages/_aboutDermaplaning.scss";
 
 .container_12 {
 background-color: #ffffff;

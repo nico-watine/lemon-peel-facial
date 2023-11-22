@@ -183,36 +183,6 @@
       "rFN" : 0,
       "uCM" : 0
     },
-    "\/scss\/_home-widgets.scss" : {
-      "aP" : 1,
-      "bl" : 0,
-      "co" : 0,
-      "dP" : 10,
-      "ec" : 1,
-      "ft" : 4,
-      "ma" : 0,
-      "oA" : 1,
-      "oAP" : "\/css\/_home-widgets.css",
-      "oF" : 0,
-      "oS" : 0,
-      "pg" : 0,
-      "sct" : 1
-    },
-    "\/scss\/_index.scss" : {
-      "aP" : 1,
-      "bl" : 0,
-      "co" : 0,
-      "dP" : 10,
-      "ec" : 1,
-      "ft" : 4,
-      "ma" : 0,
-      "oA" : 1,
-      "oAP" : "\/css\/_index.css",
-      "oF" : 0,
-      "oS" : 0,
-      "pg" : 0,
-      "sct" : 1
-    },
     "\/scss\/_nav.scss" : {
       "aP" : 1,
       "bl" : 0,
@@ -243,7 +213,7 @@
       "pg" : 0,
       "sct" : 1
     },
-    "\/scss\/_settings.scss" : {
+    "\/scss\/_var.scss" : {
       "aP" : 1,
       "bl" : 0,
       "co" : 0,
@@ -252,7 +222,7 @@
       "ft" : 4,
       "ma" : 0,
       "oA" : 1,
-      "oAP" : "\/css\/_settings.css",
+      "oAP" : "\/css\/_var.css",
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
@@ -303,7 +273,7 @@
       "pg" : 0,
       "sct" : 1
     },
-    "\/scss\/pages\/_aboutDermaplaning.scss" : {
+    "\/scss\/pages\/_pages.scss" : {
       "aP" : 1,
       "bl" : 0,
       "co" : 0,
@@ -312,13 +282,13 @@
       "ft" : 4,
       "ma" : 0,
       "oA" : 1,
-      "oAP" : "\/scss\/css\/_aboutDermaplaning.css",
+      "oAP" : "\/scss\/css\/_pages.css",
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
       "sct" : 1
     },
-    "\/scss\/pages\/_contact-2.scss" : {
+    "\/scss\/pages\/contact\/_contact.scss" : {
       "aP" : 1,
       "bl" : 0,
       "co" : 0,
@@ -327,13 +297,13 @@
       "ft" : 4,
       "ma" : 0,
       "oA" : 1,
-      "oAP" : "\/scss\/css\/_contact-2.css",
+      "oAP" : "\/scss\/pages\/css\/_contact.css",
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
       "sct" : 1
     },
-    "\/scss\/pages\/_contact.scss" : {
+    "\/scss\/pages\/dermaplaning\/_dermaplaning.scss" : {
       "aP" : 1,
       "bl" : 0,
       "co" : 0,
@@ -342,7 +312,22 @@
       "ft" : 4,
       "ma" : 0,
       "oA" : 1,
-      "oAP" : "\/scss\/css\/_contact.css",
+      "oAP" : "\/scss\/pages\/css\/_dermaplaning.css",
+      "oF" : 0,
+      "oS" : 0,
+      "pg" : 0,
+      "sct" : 1
+    },
+    "\/scss\/pages\/index\/_index.scss" : {
+      "aP" : 1,
+      "bl" : 0,
+      "co" : 0,
+      "dP" : 10,
+      "ec" : 1,
+      "ft" : 4,
+      "ma" : 0,
+      "oA" : 1,
+      "oAP" : "\/scss\/pages\/css\/_index.css",
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
@@ -732,7 +717,7 @@
     "bowerTargetDependencyListType" : 1,
     "bowerUseExactVersion" : 0,
     "browserRefreshDelay" : 0,
-    "browserslistString" : ">0.2%, last 2 versions, Firefox ESR, not dead",
+    "browserslistString" : "last 2 versions, not dead, > 0.2%",
     "buildEnvironment" : 0,
     "buildFolderActive" : 0,
     "buildFolderName" : "build",
